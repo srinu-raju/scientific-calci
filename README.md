@@ -1,1 +1,1 @@
-# scientific-calci
+# scientificcalci
